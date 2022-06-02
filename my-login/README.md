@@ -6,8 +6,6 @@
 <a href="roadmap"> Roadmap </a>.
 <a href="tecnologias"> Tecnologias </a>.
 <a href="pre-requisitos"> Pré Requisitos </a>.
-<a href="licenc-a"> Licença </a>.
-
 </p>
 
 ---
