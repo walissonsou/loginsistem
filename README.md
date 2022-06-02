@@ -6,8 +6,6 @@
 <a href="roadmap"> Roadmap </a>.
 <a href="tecnologias"> Tecnologias </a>.
 <a href="pre-requisitos"> Pré Requisitos </a>.
-
-<a href="licenc-a"> Licença </a>
 </p>
 
 ---
@@ -16,3 +14,12 @@
 <h4 align="center"> 
  🚧 Projeto LOGIN ReactJs and NodeJs🚀 Em construção 🚧... 
   </h4>
+
+### Features
+- [X] Criar Título
+- [X] Criar Descrição
+- [X] GIF's
+
+<h1 align="center">
+  <img alt="Readme" title="Readme" src="https://rafaelherculano.com.br/assets/images/busy.gif" />
+</h1>
