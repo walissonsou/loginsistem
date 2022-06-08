@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
-import './style.css' 
+import './styles.css';
 const LoginPage = () => {
   const [ email, setEmail] = useState("");
   const [password, setPassword] = useState("")
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('submit', { email, password})
   }
+  
   return (
     <div id='login'>
-      <h1 className="title"> Login do sistema </h1>
+      <h1 className="title"> LOGIN QG  </h1>
       <form className="form" onSubmit={handleSubmit}>
        <div className='field'>
         <label htmlFor="email"> Email</label>
@@ -23,7 +25,7 @@ const LoginPage = () => {
        <div className='field'>
         <label htmlFor="password"> Password</label>
         <input 
-        type="password"
+        type="text"
         name="password"
         id="password"
         value={password}
